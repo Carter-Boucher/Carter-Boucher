@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Carter-Boucher/Carter-Boucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Background 🌎
 
-Here are some ideas to get you started:
+###Work Experience
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
