@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carter-Boucher&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> ([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carter-Boucher&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats))
 
 
 
