@@ -9,7 +9,7 @@
 - General Dynamics - January 2024 to August 2024
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=1&count_weight=0&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=1&count_weight=0&hide=css,html,javascript)
 
 <!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide=javascript)
