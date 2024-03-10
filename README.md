@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 ### Background 🌱
 4th software engineering student at the University of Calgary.
 
