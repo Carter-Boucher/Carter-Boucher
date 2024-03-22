@@ -8,6 +8,7 @@
 - Save on Dev - May 2023 to December 2023
 - General Dynamics - January 2024 to August 2024
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=0.1&count_weight=0.5&hide=css,html,Makefile)
 
 <!---
