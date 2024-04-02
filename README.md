@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=0.1&count_weight=0.9&hide=css,html,Makefile)
 
 <!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide=javascript, c++, NSIS, shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&hide=javascript, NSIS, shell)
 -->
 
 <!---
