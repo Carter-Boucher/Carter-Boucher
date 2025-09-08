@@ -5,8 +5,9 @@
 4th software engineering student at the University of Calgary.
 
 ### Work Experience 🌎
-- Save on Dev - May 2023 to December 2023
 - General Dynamics - January 2024 to August 2024
+- Save on Dev - May 2023 to December 2023
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carter-Boucher&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide=HTML,css,Makefile,Batchfile,NSIS,shell,GLSL,CMake)
