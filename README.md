@@ -2,7 +2,7 @@
 
 
 ### Background 🌱
-4th software engineering student at the University of Calgary.
+software engineering at the University of Calgary.
 
 ### Work Experience 🌎
 - General Dynamics - January 2024 to August 2024
