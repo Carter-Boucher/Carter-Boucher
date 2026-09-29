@@ -5,6 +5,7 @@
 software engineering at the University of Calgary.
 
 ### Work Experience 🌎
+- Lockheed Martin Canada - December 2025 to Present
 - General Dynamics - January 2024 to August 2024
 - Save on Dev - May 2023 to December 2023
 
